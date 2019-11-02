@@ -17,10 +17,9 @@ title: William D Burke
 email: wburke@ucsb.edu
 description: PhD candidate at UC Santa Barbara Bren School. Studying ecohydrologic modeling. # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.wdburke.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.wdburke.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 github_username: wburke24
-
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
