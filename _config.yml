@@ -16,7 +16,7 @@
 title: William D Burke
 logo: /assets/img/DSC045792.jpg
 email: wburke@ucsb.edu
-description: PhD candidate at UC Santa Barbara Bren School. Studying ecohydrologic modeling. # this means to ignore newlines until "baseurl:"
+description: PhD candidate at UC Santa Barbara Bren School. # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.wdburke.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 

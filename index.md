@@ -16,5 +16,5 @@ My broader resarch interssts span a range of topics:
 I am a member of the [Tague Lab](https://tagueteamlab.org/) at the [Bren School](https://www.bren.ucsb.edu/research/will_burke.htm), as well as a member of the [Seri-Fire Team](https://serifire.com/).
 
 ## Contact
-Email: wburke@ucsb.edu  
+Email: [wburke@ucsb.edu](wburke@ucsb.edu)  
 [Scholar](https://scholar.google.com/citations?user=LpZXsb8AAAAJ&hl=en)  
