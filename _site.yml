@@ -1,0 +1,14 @@
+name: "burke-website"
+navbar:
+  title: "William D Burke"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<burke24@gmail.com.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/<wburke24>/
+output:
+  html_document:
+    theme: cosmo
