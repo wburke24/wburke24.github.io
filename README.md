@@ -1,1 +1,1 @@
-## It's a website www.wdburke.com
+## www.wdburke.com
