@@ -1,4 +1,5 @@
 name: "burke-website"
+output_dir: "docs"
 navbar:
   title: "William D Burke"
   left:

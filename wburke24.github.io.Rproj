@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: C:/Users/burke/Google Drive (burke24@gmail.com)/github_website/wburke24.github.io
