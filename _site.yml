@@ -9,7 +9,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<burke24@gmail.com.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<wburke24>/
+      href: http://github.com/wburke24/
 output:
   html_document:
     theme: cosmo
