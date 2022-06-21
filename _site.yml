@@ -4,11 +4,12 @@ navbar:
   title: "William D Burke"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
   right:
-    - icon: ai-google-scholar ai-lg
+    - icon: ai ai-google-scholar ai-lg
       href: https://scholar.google.com/citations?user=LpZXsb8AAAAJ&hl=en
-    - icon: fa-cat
+    - icon: fas fa-paw fa-lg
       href: assistants.html
     - icon: fa-envelope fa-lg
       href: mailto:<burke24@gmail.com.com>

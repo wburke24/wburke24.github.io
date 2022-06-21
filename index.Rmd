@@ -2,15 +2,18 @@
 title: "William D Burke"
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
 ## Research
-My current research is on the nexus of water, forests, and fire. Specifically, I'm concerned with how fuels treatments can affect these systems, and the complex linkages and feedbacks that can follow.  
+My research is focused on understanding the effects of fuel treatments on forests, water, and fire. Fuel treatments are likely to be an increasingly common part of our forest management, which prompts us to ask, how are those treatments altering our landscapes and affecting resources we care about? To pursue this research I use the Regional HydroEcologic Simulation System (RHESSys) and have developed new methods, 'multiscale routing', to better characterize fuel treatments and understand their interconnected effects on ecohydrology. 
+
+I am a contributor to [RHESSys](https://github.com/RHESSys/RHESSys) and the [RHESSysIOinR](https://github.com/RHESSys/RHESSysIOinR) R package, and the primary author of the [RHESSysPreprocessing](https://github.com/RHESSys/RHESSysPreprocessing) R package.
+
 My broader research interests span a range of topics:
-- Ecohydrologic modeling
-- Model development
-- Forest management
-- Climate change impacts
-- Model visualization
-- Data science
 
-## About
-
+* Ecohydrologic modeling
+* Model development
+* Forest management
+* Climate change impacts
+* Model visualization
+* Data science
