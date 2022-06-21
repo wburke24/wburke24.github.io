@@ -5,7 +5,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-  right: 
+  right:
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=LpZXsb8AAAAJ&hl=en
+    - icon: fa-cat
+      href: assistants.html
     - icon: fa-envelope fa-lg
       href: mailto:<burke24@gmail.com.com>
     - icon: fa-github fa-lg

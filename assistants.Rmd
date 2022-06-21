@@ -1,0 +1,7 @@
+---
+title: "Research Assistants"
+---
+
+Clover & Daisy.
+
+<img src="source_files/cats.jpg" style="width:50%"/>

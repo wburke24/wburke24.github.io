@@ -1,7 +1,16 @@
 ---
-title: "Under Construction"
+title: "William D Burke"
 ---
 
-Clover & Daisy.
+## Research
+My current research is on the nexus of water, forests, and fire. Specifically, I'm concerned with how fuels treatments can affect these systems, and the complex linkages and feedbacks that can follow.  
+My broader research interests span a range of topics:
+- Ecohydrologic modeling
+- Model development
+- Forest management
+- Climate change impacts
+- Model visualization
+- Data science
 
-<img src="source_files/cats.jpg" style="width:50%"/>
+## About
+
