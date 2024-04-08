@@ -7,7 +7,7 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "CV"
-      href: source_files/Burke-CV3.23.25.pdf
+      href: source_files/Burke-CV3.23.24.pdf
   right:
     - icon: ai ai-google-scholar ai-lg
       href: https://scholar.google.com/citations?user=LpZXsb8AAAAJ&hl=en
