@@ -9,14 +9,16 @@ navbar:
     - text: "CV"
       href: source_files/Burke-CV3.23.24.pdf
   right:
+    - icon: fa-github fa-lg
+      href: http://github.com/wburke24/
     - icon: ai ai-google-scholar ai-lg
       href: https://scholar.google.com/citations?user=LpZXsb8AAAAJ&hl=en
+    - icon: ai ai-researchgate ai-lg
+      href: https://www.researchgate.net/profile/William-Burke-2
     - icon: fas fa-paw fa-lg
       href: assistants.html
     - icon: fa-envelope fa-lg
       href: mailto:<burke24@gmail.com.com>
-    - icon: fa-github fa-lg
-      href: http://github.com/wburke24/
 output:
   html_document:
     theme: cosmo
