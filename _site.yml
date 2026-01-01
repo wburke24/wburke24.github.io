@@ -7,7 +7,7 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "CV"
-      href: source_files/Burke-CV3.23.24.pdf
+      href: source_files/CV.pdf
   right:
     - icon: fa-github fa-lg
       href: http://github.com/wburke24/
